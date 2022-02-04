@@ -11,7 +11,7 @@
   <groupId>com.its4u</groupId>
   <artifactId>migrator</artifactId>
   <name>migrator</name>
-  <version>v12</version>
+  <version>v15</version>
   
   <properties>
    	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
